@@ -6,6 +6,8 @@
 %define vendor_pretty Huawei
 %define device_pretty Honor 8
 
+%define droid_target_aarch64 1
+
 %define installable_zip 1
 
 %include rpm/dhd/droid-hal-device.inc
